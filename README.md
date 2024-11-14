@@ -28,7 +28,9 @@ Finding phone & contact information for Turkey's Vodafone operator
 - After running the code from the terminal, since it is an API, you can run the code by visiting:
 `http://localhost:1943/vodefoneOperator?tc=`
 
+# BOONNUUUSSSS
 
+- You can manually fill in the required information at the following address to use the necessary solution: [Vodafone Operator](https://www.vodafone.com.tr/yanimda/borc-alacak).
 
 ---
 - 💕 [Discord İnvite](https://discord.gg/8YUdHjMpvD)<br>
